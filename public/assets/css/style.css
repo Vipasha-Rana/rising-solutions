@@ -1121,7 +1121,7 @@ iframe {
   background-image: url(../images/bg/bg-image-11.jpg); }
 
 .bg_image--12 {
-  background-image: url(../images/bg/bg-image-12.jpg); }
+  background-image: url(../images/index/financial2.jpg); }
 
 .bg_image--13 {
   background-image: url(../images/bg/bg-image-13.jpg); }
@@ -1139,7 +1139,7 @@ iframe {
   background-image: url(../images/bg/bg-image-17.jpg); }
 
 .bg_image--18 {
-  background-image: url(../images/bg/bg-image-18.jpg); }
+  background-image: url(../images/index/financial.jpg); }
 
 .bg_image--19 {
   background-image: url(../images/bg/bg-image-19.jpg); }
@@ -11030,3 +11030,21 @@ body.active-light-mode .slider-area.bg-transparent .inner button.btn-default.btn
   color: var(--color-white); }
 
 /*# sourceMappingURL=../maps/style.css.map */
+
+.float{
+	position:fixed;
+	width:50px;
+	height:50px;
+	bottom:90px;
+	right:30px;
+	background-color:#25d366;
+	color:#FFF;
+	border-radius:50px;
+	text-align:center;
+  font-size:30px;
+  z-index:100;
+}
+
+.my-float{
+	margin-top:0px;
+}
